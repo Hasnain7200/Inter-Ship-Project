@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inter-ship-Project/static/css/main.0eacede8.css",
+    "main.js": "/Inter-ship-Project/static/js/main.9f8bbf5e.js",
+    "static/media/Frame 46.png": "/Inter-ship-Project/static/media/Frame 46.a384f76dc47819af99e7.png",
+    "index.html": "/Inter-ship-Project/index.html",
+    "static/media/index.cjs": "/Inter-ship-Project/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.0eacede8.css.map": "/Inter-ship-Project/static/css/main.0eacede8.css.map",
+    "main.9f8bbf5e.js.map": "/Inter-ship-Project/static/js/main.9f8bbf5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eacede8.css",
+    "static/js/main.9f8bbf5e.js"
+  ]
+}
